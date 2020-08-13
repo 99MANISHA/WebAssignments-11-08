@@ -1,0 +1,10 @@
+D:\Assignments on Webapp\ConCalculate\ConCalculate\bin\Debug\ConCalculate.exe.config
+D:\Assignments on Webapp\ConCalculate\ConCalculate\bin\Debug\ConCalculate.exe
+D:\Assignments on Webapp\ConCalculate\ConCalculate\bin\Debug\ConCalculate.pdb
+D:\Assignments on Webapp\ConCalculate\ConCalculate\bin\Debug\CalculaterLIB.dll
+D:\Assignments on Webapp\ConCalculate\ConCalculate\bin\Debug\CalculaterLIB.pdb
+D:\Assignments on Webapp\ConCalculate\ConCalculate\obj\Debug\ConCalculate.csprojAssemblyReference.cache
+D:\Assignments on Webapp\ConCalculate\ConCalculate\obj\Debug\ConCalculate.csproj.CoreCompileInputs.cache
+D:\Assignments on Webapp\ConCalculate\ConCalculate\obj\Debug\ConCalculate.csproj.CopyComplete
+D:\Assignments on Webapp\ConCalculate\ConCalculate\obj\Debug\ConCalculate.exe
+D:\Assignments on Webapp\ConCalculate\ConCalculate\obj\Debug\ConCalculate.pdb

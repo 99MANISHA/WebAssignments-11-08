@@ -1,0 +1,13 @@
+D:\Assignments on Webapp\WindowCalculator\WindowCalculator\bin\Debug\WindowCalculator.exe.config
+D:\Assignments on Webapp\WindowCalculator\WindowCalculator\bin\Debug\WindowCalculator.exe
+D:\Assignments on Webapp\WindowCalculator\WindowCalculator\bin\Debug\WindowCalculator.pdb
+D:\Assignments on Webapp\WindowCalculator\WindowCalculator\bin\Debug\CalculaterLIB.dll
+D:\Assignments on Webapp\WindowCalculator\WindowCalculator\bin\Debug\CalculaterLIB.pdb
+D:\Assignments on Webapp\WindowCalculator\WindowCalculator\obj\Debug\WindowCalculator.csprojAssemblyReference.cache
+D:\Assignments on Webapp\WindowCalculator\WindowCalculator\obj\Debug\WindowCalculator.Form1.resources
+D:\Assignments on Webapp\WindowCalculator\WindowCalculator\obj\Debug\WindowCalculator.Properties.Resources.resources
+D:\Assignments on Webapp\WindowCalculator\WindowCalculator\obj\Debug\WindowCalculator.csproj.GenerateResource.cache
+D:\Assignments on Webapp\WindowCalculator\WindowCalculator\obj\Debug\WindowCalculator.csproj.CoreCompileInputs.cache
+D:\Assignments on Webapp\WindowCalculator\WindowCalculator\obj\Debug\WindowCalculator.csproj.CopyComplete
+D:\Assignments on Webapp\WindowCalculator\WindowCalculator\obj\Debug\WindowCalculator.exe
+D:\Assignments on Webapp\WindowCalculator\WindowCalculator\obj\Debug\WindowCalculator.pdb
